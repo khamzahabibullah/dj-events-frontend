@@ -6,6 +6,9 @@ const AboutPage = () => {
       <h1>About</h1>
       <p>This is an app to find the latest DJ and other musical events</p>
       <p>Version: 1.0.0</p>
+      <p>
+        Made by <a href="https://khamzahabibullah.com/">Khamza Habibullah</a>
+      </p>
     </Layout>
   );
 };
